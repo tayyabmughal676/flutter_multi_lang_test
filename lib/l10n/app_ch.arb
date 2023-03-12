@@ -1,0 +1,15 @@
+{
+  "homePage": "主页",
+  "personalInformation": "个人信息",
+  "name": "姓名",
+  "nameHint": "输入你的名字",
+  "email": "电子邮件",
+  "emailHint": "输入你的电子邮箱",
+  "dateOfBirth": "出生日期",
+  "requiredField": "必填项目",
+  "submitInfo": "提交资料",
+  "aboutUs": "关于我们",
+  "settings": "设置",
+  "changeLanguage": "改变语言",
+  "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
